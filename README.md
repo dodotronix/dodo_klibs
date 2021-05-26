@@ -1,4 +1,4 @@
-# DODO's kicad libraries
+# DODO's kicad libraries for Kicad version 5.99 and higher
 This library contains different groups of components which I missed in actual 
 kicad's libraries.
 Actually there are following groups of components. The library will be updated 
