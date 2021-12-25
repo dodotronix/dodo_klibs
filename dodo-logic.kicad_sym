@@ -142,7 +142,7 @@
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/sn3257-q1.pdf?ts=1601472681664&ref_url=https%253A%252F%252Fcz.mouser.com%252F" (id 3) (at 0 -6.985 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "BOM" "https://cz.mouser.com/ProductDetail/Texas-Instruments/SN3257QPWRQ1?qs=%252B6g0mu59x7JRD99NE57pzA%3D%3D" (id 4) (at 0 0 0)
+    (property "Purchase" "https://cz.mouser.com/ProductDetail/Texas-Instruments/SN3257QPWRQ1?qs=%252B6g0mu59x7JRD99NE57pzA%3D%3D" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (symbol "SN3257QPWRQ1_0_1"
