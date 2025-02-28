@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SON50P300X300X80-9N-D"
+		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm"
 			(at 31.75 -94.92 0)
 			(effects
 				(font
